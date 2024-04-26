@@ -27,7 +27,7 @@ library(dplyr)
 library(Seurat) 
 library(patchwork)  
 library(ggplot2) 
-#library(presto) #We'll need this package when performing annotation 
+#library(presto) #We'll need this package when perform annotation 
 
 # Reading into the Seurat Object which is saved in .rds format using the readRDS() function
 
